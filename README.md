@@ -1,6 +1,6 @@
 # João Pedro Cobra Casici
 
-🎓 Estudante de Sistemas de Informação
+🎓 Estudante de Sistemas de Informação do CEFET-MG
 
 🌐 [Portfólio](https://jpccp.vercel.app/)  
 💼 [LinkedIn](https://linkedin.com/in/joão-pedro-cobra-casici-7b758a303)  
