@@ -20,14 +20,14 @@ Interessado em Cibersegurança, Inteligência Artificial e Desenvolvimento de So
 ## 🌐 Redes Sociais
 
 <div align="left">
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/jo%C3%A3o-pedro-cobra-casici-7b758a303/)">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-cobra-casici-7b758a303/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
-  <a href="[https://www.instagram.com](https://www.instagram.com/joaopedroccasici/)">
+  <a href="https://www.instagram.com/joaopedroccasici/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
   </a>
-  <a href="[jpcc.is-a.dev](https://www.jpcc.is-a.dev/)">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="portfolio logo"/>
+  <a href="https://jpcc.is-a.dev">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg" width="52" height="40" alt="portfolio logo"/>
   </a>
 </div>
 
