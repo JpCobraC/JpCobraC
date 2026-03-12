@@ -26,7 +26,7 @@ Interessado em Cibersegurança, Inteligência Artificial e Desenvolvimento de So
   <a href="[https://www.instagram.com](https://www.instagram.com/joaopedroccasici/)">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
   </a>
-  <a href="[LINK_DO_SEU_PORTFOLIO](https://www.jpcc.is-a.dev/)">
+  <a href="[jpcc.is-a.dev](https://www.jpcc.is-a.dev/)">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="portfolio logo"/>
   </a>
 </div>
