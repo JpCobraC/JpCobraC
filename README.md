@@ -19,43 +19,33 @@
 
 ## 🌐 Redes Sociais
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-cobra-casici-7b758a303/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="40" height="40" alt="linkedin logo"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/joaopedroccasici/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="instagram logo"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://jpcc.is-a.dev" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" alt="portfolio logo"/>
+    <img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfólio" />
   </a>
-</div>
+</p>
 
 ---
 
 ## 🧰 Tecnologias e Ferramentas
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" title="R" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" title="CSS3" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="TypeScript" />
-</div>
+</p>
 
 ---
 
