@@ -47,20 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="TypeScript" />
 </p>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JpCobraC&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpCobraC&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
-</p>
-
----
-
 ## 📌 Projetos em destaque
 
 🔹 **Projeto de Torrefação de Café com IA** Classificação automática da torra utilizando visão computacional.
